@@ -1,184 +1,146 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Bác sĩ tư vấn trực tuyến",
+    "paragraph": "Nơi giải đáp tất cả các vấn đề liên quan tới sức khỏe và lĩnh vực y tế, với đội ngũ bác sĩ tư vấn tận tâm và dịch vụ hoàn toàn miễn phí."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Metacine là một ứng dụng đặt lịch tư vấn và chăm sóc sức khỏe không tính phí và không giới hạn đối tượng người dùng. Đặc biệt là trong đại dịch Covid-19, nhu cầu thăm khám cao hơn, và cấp thiết hơn khi một số khu vực bị phong tỏa hoặc người dân bị hạn chế di chuyển.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Dịch vụ miễn phí",
+      "Lịch khám linh hoạt",
+      "Đặt hẹn chỉ trong 1 phút",
+      "Không phải di chuyển xa"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Bác sĩ có chuyên môn cao",
+      "Tư vấn trên nhiều lĩnh vực sức khỏe",
+      "Giải đáp nhanh chóng và kịp thời",
+      "Lưu lại thông tin sau mỗi lần khám"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Trang chủ",
       "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "smallImage": "img/portfolio/screen01.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Lịch làm việc",
       "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "smallImage": "img/portfolio/screen02.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Mobile App",
       "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "smallImage": "img/portfolio/screen03.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-desktop",
+      "name": "Đi tới Web App",
+      "text": "Ứng dụng hỗ trợ tư vấn dành cho bác sĩ",
+      "url": "https://telemedicine-doctor-121fb.web.app/"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-mobile-phone",
+      "name": "Tải Mobile App",
+      "text": "Ứng dụng đặt lịch hẹn khám dành cho bệnh nhân",
+      "url": "#"
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Ứng dụng này thực sự hữu ích đối với tôi trong việc giải đáp những thắc mắc về tình trạng bệnh của mình.\"",
+      "name": "Nguyễn Minh"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Mình đã dùng thử và cảm thấy ứng dụng này khá hay và hữu ích. Mình sẽ giới thiệu app này cho bạn bè và gia đình.\"",
+      "name": "Thái Linh Đàm"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Ứng dụng này đã giúp tôi tiết kiệm rất nhiều thời gian trong việc đặt hẹn lịch khám so với việc khám bệnh trực tiếp tại các cơ sở y tế.\"",
+      "name": "Trương Minh Trí"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Không thể hài lòng hơn. Trong tình hình dịch hiện tại, mình rất hạn chế ra ngoài khi không cần thiết. Ứng dụng đã giúp mình rất nhiều trong việc chăm sóc, và theo dõi sức khỏe cá nhân tại nhà. Cảm ơn đội ngũ phát triển!\"",
+      "name": "Phương Linh"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Ứng dụng này rất tiện lợi đối với tôi. Không cần phải ra khỏi nhà, chỉ cần một ít thời gian là có thể đăng ký lịch tư vấn. Cũng không phát sinh thêm bất kì một khoản phí nào. Thật là một ứng dụng tuyệt vời!\"",
+      "name": "Quang Huy"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Mình biết được app này qua một chị đồng nghiệp, chị ấy dùng thử thấy hay nên có giới thiệu cho mình và mình cũng đã trải nghiệm qua. Rất được nha mọi người, bác sĩ tư vấn cũng rất chu đáo và nhiệt tình nữa. Xứng đáng 5 sao!\"",
+      "name": "Nhi Trần"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Bình Trương",
+      "job": "Project Manager"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Danh Phạm",
+      "job": "Back-end Dev"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Nhân Nguyễn",
+      "job": "Front-end Dev"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Ngọc Nguyễn",
+      "job": "Front-end Dev"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Tâm Nguyễn",
+      "job": "Mobile Dev"
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Hào Nguyễn",
+      "job": "Mobile Dev"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Lô E2a-7, Đường D1 Khu Công nghệ cao, P.Long Thạnh Mỹ, Q.9, TP.Hồ Chí Minh ",
+    "phone": "+84 123 456 1234",
+    "email": "metacine@company.com",
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com",
+    "youtube": "https://youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-search",
+      "title": "Tìm kiếm bác sĩ",
+      "text": "Hỗ trợ tính năng tìm kiếm bác sĩ làm việc trong các bệnh viện gần khu vực bạn sinh sống."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-calendar",
+      "title": "Đặt lịch hẹn",
+      "text": "Người dùng có thể đăng ký lịch hẹn với bác sĩ đã chọn với các khung giờ linh hoạt và tùy chỉnh."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-video-camera",
+      "title": "Tư vấn trực tuyến",
+      "text": "Cung cấp dịch vụ tư vấn trực tiếp bằng hình thức video call nhanh chóng, tiện lợi và dễ dàng giao tiếp, trao đổi thông tin."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-pills",
+      "title": "Tạo đơn thuốc",
+      "text": "Kết thúc mỗi buổi hẹn, bác sĩ sẽ tạo đơn thuốc theo yêu cầu trong trường hợp bệnh nhân cần được chữa trị bằng thuốc."
     }
   ]
 }
